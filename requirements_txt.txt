@@ -1,0 +1,21 @@
+# Discord Bot Dependencies
+discord.py==2.3.2
+
+# Web Scraping Dependencies
+aiohttp==3.8.5
+beautifulsoup4==4.12.2
+lxml==4.9.3
+requests==2.31.0
+
+# Database
+sqlite3  # Built into Python
+
+# Async Support
+asyncio  # Built into Python
+
+# Logging and Utilities
+python-dotenv==1.0.0
+
+# Alternative scraping options (uncomment if needed)
+# selenium==4.12.0
+# playwright==1.37.0

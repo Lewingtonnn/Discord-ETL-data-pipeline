@@ -1,0 +1,22 @@
+# ❌ Logs and runtime files
+bot.log
+*.log
+
+# ❌ Local database (don't push SQLite with scraped data)
+sneaker_deals.db
+
+# ❌ Python cache files
+__pycache__/
+*.pyc
+
+# ❌ Environment configs (if you add a .env later)
+.env
+
+# ❌ VSCode or PyCharm settings (if you use these)
+.vscode/
+.idea/
+
+# ❌ OS files
+.DS_Store
+Thumbs.db
+.c

@@ -1,0 +1,704 @@
+2025-07-11 17:40:04,507 - INFO - Created default config file: config.json
+2025-07-11 17:40:04,526 - ERROR - Error loading config: invalid literal for int() with base 10: ''
+2025-07-11 17:40:04,526 - ERROR - DISCORD_TOKEN not found in config. Please set it in config.json
+2025-07-11 18:17:58,278 - INFO - Configuration loaded successfully
+2025-07-11 18:17:58,281 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:17:58,283 - INFO - Configuration loaded successfully
+2025-07-11 18:17:58,419 - INFO - Database initialized
+2025-07-11 18:17:58,420 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:17:58,433 - INFO - logging in using static token
+2025-07-11 18:18:00,185 - ERROR - Bot crashed: Shard ID None is requesting privileged intents that have not been explicitly enabled in the developer portal. It is recommended to go to https://discord.com/developers/applications/ and explicitly enable the privileged intents within your application's page. If this is not possible, then consider disabling the privileged intents instead.
+2025-07-11 18:20:28,844 - INFO - Configuration loaded successfully
+2025-07-11 18:20:28,854 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:20:28,856 - INFO - Configuration loaded successfully
+2025-07-11 18:20:28,919 - INFO - Database initialized
+2025-07-11 18:20:28,920 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:20:28,937 - INFO - logging in using static token
+2025-07-11 18:20:30,663 - INFO - Shard ID None has connected to Gateway (Session ID: 663869d2e1cbd196065813f7d4f0e766).
+2025-07-11 18:20:32,674 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:20:32,674 - INFO - Started monitoring task
+2025-07-11 18:20:32,675 - INFO - Starting scrape cycle...
+2025-07-11 18:20:32,676 - ERROR - Could not find channel with ID: 1393248094619042013
+2025-07-11 18:23:32,686 - INFO - Starting scrape cycle...
+2025-07-11 18:23:32,689 - ERROR - Could not find channel with ID: 1393248094619042013
+2025-07-11 18:26:32,678 - INFO - Starting scrape cycle...
+2025-07-11 18:26:32,679 - ERROR - Could not find channel with ID: 1393248094619042013
+2025-07-11 18:29:32,687 - INFO - Starting scrape cycle...
+2025-07-11 18:29:32,688 - ERROR - Could not find channel with ID: 1393248094619042013
+2025-07-11 18:36:09,787 - INFO - Configuration loaded successfully
+2025-07-11 18:36:09,788 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:36:09,788 - INFO - Configuration loaded successfully
+2025-07-11 18:36:09,790 - INFO - Database initialized
+2025-07-11 18:36:09,790 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:36:09,792 - INFO - logging in using static token
+2025-07-11 18:36:11,320 - INFO - Shard ID None has connected to Gateway (Session ID: afa7703052376a145e52acfc02487cff).
+2025-07-11 18:36:13,333 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:36:13,334 - INFO - Started monitoring task
+2025-07-11 18:36:13,335 - INFO - Starting scrape cycle...
+2025-07-11 18:36:13,335 - ERROR - Could not find channel with ID: 1393248095256444950
+2025-07-11 18:37:35,168 - INFO - Configuration loaded successfully
+2025-07-11 18:37:35,169 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:37:35,169 - INFO - Configuration loaded successfully
+2025-07-11 18:37:35,170 - INFO - Database initialized
+2025-07-11 18:37:35,170 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:37:35,172 - INFO - logging in using static token
+2025-07-11 18:37:36,687 - INFO - Shard ID None has connected to Gateway (Session ID: ee58b83cc9ba0fc44bfba6dd80d2d17c).
+2025-07-11 18:37:38,702 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:37:38,703 - INFO - Started monitoring task
+2025-07-11 18:37:38,703 - INFO - Starting scrape cycle...
+2025-07-11 18:37:38,703 - ERROR - Could not find channel with ID: 1393254737855516846
+2025-07-11 18:39:16,330 - INFO - Configuration loaded successfully
+2025-07-11 18:39:16,330 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:39:16,331 - INFO - Configuration loaded successfully
+2025-07-11 18:39:16,332 - INFO - Database initialized
+2025-07-11 18:39:16,332 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:39:16,333 - INFO - logging in using static token
+2025-07-11 18:39:18,468 - INFO - Shard ID None has connected to Gateway (Session ID: 60c80be32b8da570d7626f1b550d9354).
+2025-07-11 18:39:20,474 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:39:20,476 - INFO - Started monitoring task
+2025-07-11 18:39:20,477 - INFO - Starting scrape cycle...
+2025-07-11 18:39:20,478 - ERROR - Could not find channel with ID: 1393254737855516846
+2025-07-11 18:39:40,399 - INFO - Configuration loaded successfully
+2025-07-11 18:39:40,400 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:39:40,400 - INFO - Configuration loaded successfully
+2025-07-11 18:39:40,401 - INFO - Database initialized
+2025-07-11 18:39:40,401 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:39:40,402 - INFO - logging in using static token
+2025-07-11 18:39:41,855 - INFO - Shard ID None has connected to Gateway (Session ID: 322f934a8e34871349b241374fe3459a).
+2025-07-11 18:39:43,860 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:39:43,861 - INFO - Started monitoring task
+2025-07-11 18:39:43,861 - INFO - Starting scrape cycle...
+2025-07-11 18:39:43,862 - ERROR - Could not find channel with ID: 1393254737855516846
+2025-07-11 18:45:56,507 - INFO - Configuration loaded successfully
+2025-07-11 18:45:56,516 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:45:56,517 - INFO - Configuration loaded successfully
+2025-07-11 18:45:56,678 - INFO - Database initialized
+2025-07-11 18:45:56,679 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:45:56,682 - INFO - logging in using static token
+2025-07-11 18:45:58,353 - INFO - Shard ID None has connected to Gateway (Session ID: ba3baeebc57b461319bdad63ffc8cb86).
+2025-07-11 18:46:00,363 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:46:00,363 - INFO - Started monitoring task
+2025-07-11 18:46:00,363 - INFO - Starting scrape cycle...
+2025-07-11 18:46:00,363 - ERROR - Could not find channel with ID: 1393254737855516846
+2025-07-11 18:47:04,636 - INFO - Configuration loaded successfully
+2025-07-11 18:47:04,637 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 18:47:04,637 - INFO - Configuration loaded successfully
+2025-07-11 18:47:04,638 - INFO - Database initialized
+2025-07-11 18:47:04,638 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 18:47:04,639 - INFO - logging in using static token
+2025-07-11 18:47:06,135 - INFO - Shard ID None has connected to Gateway (Session ID: 47d550190646ff7d7e5a7b18eb4fb3b0).
+2025-07-11 18:47:08,141 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 18:47:08,142 - INFO - Started monitoring task
+2025-07-11 18:47:08,144 - INFO - Starting scrape cycle...
+2025-07-11 18:47:08,144 - ERROR - Could not find channel with ID: 1393254737855516846
+2025-07-11 19:04:20,175 - INFO - Configuration loaded successfully
+2025-07-11 19:04:20,187 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 19:04:20,189 - INFO - Configuration loaded successfully
+2025-07-11 19:04:20,234 - INFO - Database initialized
+2025-07-11 19:04:20,235 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 19:04:20,252 - INFO - logging in using static token
+2025-07-11 19:04:23,062 - INFO - Shard ID None has connected to Gateway (Session ID: d95453c612a2d82886daefaac2d088ed).
+2025-07-11 19:04:25,097 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 19:04:25,097 - INFO - Started monitoring task
+2025-07-11 19:04:25,098 - INFO - Starting scrape cycle...
+2025-07-11 19:04:25,098 - INFO - Scraping: Jordan 1
+2025-07-11 19:04:25,098 - INFO - Scraping: Nike Dunk
+2025-07-11 19:04:28,568 - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-11 19:04:29,399 - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-11 19:04:29,404 - INFO - Scraped 0 unique listings total
+2025-07-11 19:04:29,404 - INFO - Found 0 listings
+2025-07-11 19:04:29,404 - INFO - No new deals found
+2025-07-11 19:07:25,113 - INFO - Starting scrape cycle...
+2025-07-11 19:07:25,113 - INFO - Scraping: Jordan 1
+2025-07-11 19:07:25,114 - INFO - Scraping: Nike Dunk
+2025-07-11 19:07:29,631 - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-11 19:07:30,117 - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-11 19:07:30,119 - INFO - Scraped 0 unique listings total
+2025-07-11 19:07:30,119 - INFO - Found 0 listings
+2025-07-11 19:07:30,119 - INFO - No new deals found
+2025-07-11 21:36:46,161 - INFO - Configuration loaded successfully
+2025-07-11 21:36:46,163 - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-11 21:36:46,163 - INFO - Configuration loaded successfully
+2025-07-11 21:36:46,210 - INFO - Database initialized
+2025-07-11 21:36:46,210 - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-11 21:36:46,213 - INFO - logging in using static token
+2025-07-11 21:36:47,668 - INFO - Shard ID None has connected to Gateway (Session ID: 360e53dafc2762cd9056f80727b0ffbd).
+2025-07-11 21:36:49,672 - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-11 21:36:49,672 - INFO - Started monitoring task
+2025-07-11 21:36:49,672 - INFO - Starting scrape cycle...
+2025-07-11 21:36:49,673 - INFO - Scraping: Jordan 1
+2025-07-11 21:36:49,673 - INFO - Scraping: Nike Dunk
+2025-07-11 21:36:53,665 - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-11 21:36:54,062 - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-11 21:36:54,063 - INFO - Scraped 40 unique listings total
+2025-07-11 21:36:54,063 - INFO - Found 40 listings
+2025-07-11 21:36:54,094 - INFO - Saved listing: Nike Air Jordan 1 High OG CO JP DC 1788 100 Size 9.5
+2025-07-11 21:36:54,588 - INFO - Posted new deal: Nike Air Jordan 1 High OG CO JP DC 1788 100 Size 9.5 - $69.99
+2025-07-11 21:36:55,647 - INFO - Saved listing: JORDAN 1 RETRO DMP CELTIC 2009 UK11/US12/EUR46/CM30 VERY RARE
+2025-07-11 21:36:56,111 - INFO - Posted new deal: JORDAN 1 RETRO DMP CELTIC 2009 UK11/US12/EUR46/CM30 VERY RARE - $161.59
+2025-07-11 21:36:57,173 - INFO - Saved listing: Air Jordan 1 Retro Patent UNC 2003 size 6.5y
+2025-07-11 21:36:57,654 - INFO - Posted new deal: Air Jordan 1 Retro Patent UNC 2003 size 6.5y - $60.0
+2025-07-11 21:36:58,698 - INFO - Saved listing: NEW Air Jordan 1 High Silver Toe 2021 Size 10/8.5M RARE Authentic MJ OG AJ1
+2025-07-11 21:36:59,362 - INFO - Posted new deal: NEW Air Jordan 1 High Silver Toe 2021 Size 10/8.5M RARE Authentic MJ OG AJ1 - $199.0
+2025-07-11 21:37:00,402 - INFO - Saved listing: Jordan 1 Retro High Og Royal Reimagined Size 11 DZ5485-042 Pre Owned
+2025-07-11 21:37:00,876 - INFO - Posted new deal: Jordan 1 Retro High Og Royal Reimagined Size 11 DZ5485-042 Pre Owned - $59.99
+2025-07-11 21:37:01,907 - INFO - Saved listing: Mens Nike Air Jordan 1 High Element Gore-tex Black Olive Sneakers US 11.5
+2025-07-11 21:37:02,311 - INFO - Posted new deal: Mens Nike Air Jordan 1 High Element Gore-tex Black Olive Sneakers US 11.5 - $99.99
+2025-07-11 21:37:03,358 - INFO - Saved listing: NEW! Nike sb dunks size 9.5 GOOD CONDITION FOR OWNED
+2025-07-11 21:37:03,822 - INFO - Posted new deal: NEW! Nike sb dunks size 9.5 GOOD CONDITION FOR OWNED - $50.0
+2025-07-11 21:37:04,867 - INFO - Saved listing: Jordan 4 SB Dunk Navy Blue Size 10 Men
+2025-07-11 21:37:05,487 - INFO - Posted new deal: Jordan 4 SB Dunk Navy Blue Size 10 Men - $245.0
+2025-07-11 21:37:06,532 - INFO - Saved listing: Nike SB Dunk Low Neckface Size 13 Og Box No Extra Patches
+2025-07-11 21:37:07,018 - INFO - Posted new deal: Nike SB Dunk Low Neckface Size 13 Og Box No Extra Patches - $84.4
+2025-07-11 21:37:08,067 - INFO - Saved listing: Nike Dunk Low Light Armory Blue Photon Dust Sneaker FZ3779025 Sz 10.5 W Size 9 M
+2025-07-11 21:37:08,541 - INFO - Posted new deal: Nike Dunk Low Light Armory Blue Photon Dust Sneaker FZ3779025 Sz 10.5 W Size 9 M - $106.95
+2025-07-11 21:37:09,573 - INFO - Saved listing: Nike Dunk Low - Red Panda - Size 11
+2025-07-11 21:37:10,026 - INFO - Posted new deal: Nike Dunk Low - Red Panda - Size 11 - $58.88
+2025-07-11 21:37:11,075 - INFO - Saved listing: Size 10 - Nike Dunk Low Retro Arizona State Sun Devils 2022
+2025-07-11 21:37:11,568 - INFO - Posted new deal: Size 10 - Nike Dunk Low Retro Arizona State Sun Devils 2022 - $60.0
+2025-07-11 21:37:12,602 - INFO - Saved listing: Mens Nike SB Dunk Low Pro "White Gum" Shoes US Size 11.5
+2025-07-11 21:37:13,187 - INFO - Posted new deal: Mens Nike SB Dunk Low Pro "White Gum" Shoes US Size 11.5 - $99.99
+2025-07-11 21:37:14,235 - INFO - Saved listing: Nike Dunk Low NN N7 Men's Multi Size Dk Turquoise/Black-White-Sail HJ9088-488
+2025-07-11 21:37:14,692 - INFO - Posted new deal: Nike Dunk Low NN N7 Men's Multi Size Dk Turquoise/Black-White-Sail HJ9088-488 - $80.0
+2025-07-11 21:37:15,723 - INFO - Saved listing: Verdy x Nike SB Dunk Low Pro Visty Men's Size 14 New And In Hand
+2025-07-11 21:37:16,203 - INFO - Posted new deal: Verdy x Nike SB Dunk Low Pro Visty Men's Size 14 New And In Hand - $299.99
+2025-07-11 21:37:17,478 - INFO - Saved listing: Men's Nike Dunk High NBY (OD) "Celtics" Shoes -Style# DV2273 900 -Size 11.5 -NEW
+2025-07-11 21:37:18,158 - INFO - Posted new deal: Men's Nike Dunk High NBY (OD) "Celtics" Shoes -Style# DV2273 900 -Size 11.5 -NEW - $84.99
+2025-07-11 21:37:19,168 - INFO - Posted 16 new deals
+2025-07-11 21:39:49,687 - INFO - Starting scrape cycle...
+2025-07-11 21:39:49,688 - INFO - Scraping: Jordan 1
+2025-07-11 21:39:49,688 - INFO - Scraping: Nike Dunk
+2025-07-11 21:39:56,723 - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-11 21:39:57,164 - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-11 21:39:57,165 - INFO - Scraped 40 unique listings total
+2025-07-11 21:39:57,165 - INFO - Found 40 listings
+2025-07-11 21:39:57,181 - INFO - No new deals found
+2025-07-12 00:05:20,451 - config_module - INFO - Configuration loaded successfully
+2025-07-12 00:05:20,460 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 00:05:20,461 - config_module - INFO - Configuration loaded successfully
+2025-07-12 00:05:20,536 - sneaker_bot - INFO - Database initialized
+2025-07-12 00:05:20,537 - sneaker_bot - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-12 00:05:20,553 - discord.client - INFO - logging in using static token
+2025-07-12 00:05:22,465 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 3b52f106498ffd91600521d5b5608034).
+2025-07-12 00:05:24,480 - sneaker_bot - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-12 00:05:24,481 - sneaker_bot - INFO - Started monitoring task
+2025-07-12 00:05:24,482 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:05:24,485 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:05:24,486 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:05:27,843 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 00:05:28,801 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 00:05:28,804 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 00:05:28,805 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 00:05:28,805 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:08:24,494 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:08:24,495 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:08:24,496 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:08:27,607 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 00:08:29,323 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 00:08:29,325 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 00:08:29,347 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 00:08:29,348 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:11:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:11:24,492 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:11:24,494 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:11:28,884 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:11:29,713 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:11:29,715 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:11:29,715 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:11:29,773 - sneaker_bot - INFO - Saved listing: Air Jordan 1 Mid Black/Red-Metallic Silver Noir/Rouge Gym
+2025-07-12 00:11:30,282 - sneaker_bot - INFO - Posted new deal: Air Jordan 1 Mid Black/Red-Metallic Silver Noir/Rouge Gym - $50.0
+2025-07-12 00:11:31,416 - sneaker_bot - INFO - Saved listing: Air Jordan 1 Low Men's Size 8.5
+2025-07-12 00:11:31,843 - sneaker_bot - INFO - Posted new deal: Air Jordan 1 Low Men's Size 8.5 - $120.0
+2025-07-12 00:11:32,957 - sneaker_bot - INFO - Saved listing: Nike Dunk Low Retro SE Men's 10.5 White Photon Dust Green Athletic Shoes Spartan
+2025-07-12 00:11:33,481 - sneaker_bot - INFO - Posted new deal: Nike Dunk Low Retro SE Men's 10.5 White Photon Dust Green Athletic Shoes Spartan - $65.0
+2025-07-12 00:11:34,589 - sneaker_bot - INFO - Saved listing: Nike Dunk Low Midas Size 8.5 USC, Commanders, BC Limited Edition
+2025-07-12 00:11:35,055 - sneaker_bot - INFO - Posted new deal: Nike Dunk Low Midas Size 8.5 USC, Commanders, BC Limited Edition - $65.0
+2025-07-12 00:11:36,083 - sneaker_bot - INFO - Posted 4 new deals
+2025-07-12 00:14:24,489 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:14:24,491 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:14:24,492 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:14:28,037 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:14:28,991 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:14:28,992 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:14:28,993 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:14:31,169 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:17:24,483 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:17:24,485 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:17:24,486 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:17:29,125 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:17:29,683 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:17:29,685 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:17:29,685 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:17:29,702 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:20:24,485 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:20:24,486 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:20:24,487 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:20:31,343 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:20:31,958 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:20:32,688 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:20:32,689 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:20:32,731 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:23:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:23:24,492 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:23:24,493 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:23:28,073 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:23:28,883 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:23:28,887 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:23:28,887 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:23:28,915 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:26:24,484 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:26:24,485 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:26:24,486 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:26:28,493 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 00:26:29,056 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:26:29,057 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 00:26:29,057 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 00:26:30,274 - sneaker_bot - INFO - Saved listing: Size 9.5 - Nike Dunk SB Low Night of Mischief
+2025-07-12 00:26:32,076 - sneaker_bot - INFO - Posted new deal: Size 9.5 - Nike Dunk SB Low Night of Mischief - $220.0
+2025-07-12 00:26:33,110 - sneaker_bot - INFO - Posted 1 new deals
+2025-07-12 00:29:24,493 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:29:24,495 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:29:24,495 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:29:28,287 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:29:29,484 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 00:29:29,486 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 00:29:29,486 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 00:29:29,496 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:32:24,489 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:32:24,492 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:32:24,492 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:32:28,975 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:32:29,401 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:32:29,403 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:32:29,404 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:32:29,429 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:35:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:35:24,493 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:35:24,494 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:35:27,904 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:35:29,415 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:35:29,416 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:35:29,416 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:35:30,040 - sneaker_bot - INFO - Saved listing: Size 7 - Nike Dunk Low Newsprint Varsity Purple “2007”
+2025-07-12 00:35:30,591 - sneaker_bot - INFO - Posted new deal: Size 7 - Nike Dunk Low Newsprint Varsity Purple “2007” - $100.0
+2025-07-12 00:35:31,621 - sneaker_bot - INFO - Posted 1 new deals
+2025-07-12 00:38:24,485 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:38:24,487 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:38:24,489 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:38:27,300 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:38:29,065 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:38:29,066 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:38:29,066 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:38:29,081 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:41:24,486 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:41:24,488 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:41:24,488 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:41:27,467 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:41:28,384 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:41:28,385 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:41:28,385 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:41:28,400 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:44:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:44:24,493 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:44:24,494 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:44:28,050 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:44:28,575 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:44:28,576 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:44:28,576 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:44:28,591 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:47:24,483 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:47:24,484 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:47:24,484 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:47:28,514 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:47:29,151 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:47:29,152 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:47:29,153 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:47:29,168 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:50:24,502 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:50:24,504 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:50:24,505 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:50:27,852 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:50:28,285 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 00:50:28,287 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 00:50:28,287 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 00:50:28,295 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:53:24,482 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:53:24,483 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:53:24,484 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:53:27,936 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:53:28,401 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:53:28,402 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:53:28,402 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:53:28,434 - sneaker_bot - INFO - Saved listing: Size 13 - Air Jordan 1 Mid Royal Splatter
+2025-07-12 00:53:28,880 - sneaker_bot - INFO - Posted new deal: Size 13 - Air Jordan 1 Mid Royal Splatter - $125.0
+2025-07-12 00:53:29,948 - sneaker_bot - INFO - Posted 1 new deals
+2025-07-12 00:56:24,485 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:56:24,487 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:56:24,488 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:56:32,162 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:56:32,748 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:56:32,749 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:56:32,750 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:56:32,768 - sneaker_bot - INFO - No new deals found
+2025-07-12 00:59:24,484 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 00:59:24,485 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 00:59:24,486 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 00:59:27,746 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 00:59:28,101 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 00:59:28,103 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 00:59:28,103 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 00:59:28,118 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:02:24,497 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:02:24,499 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:02:24,499 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:02:27,629 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 01:02:28,707 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 01:02:28,708 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 01:02:28,708 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 01:02:28,708 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:05:24,498 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:05:24,499 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:05:24,499 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:05:28,288 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 01:05:29,290 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:05:29,291 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 01:05:29,291 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 01:05:29,298 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:08:24,488 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:08:24,490 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:08:24,490 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:08:27,738 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:08:28,492 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:08:28,495 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:08:28,495 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:08:28,511 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:11:24,490 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:11:24,491 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:11:24,492 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:11:28,788 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:11:29,785 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:11:29,787 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:11:29,787 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:11:29,826 - sneaker_bot - INFO - Saved listing: Nike Dunk High All-Star Galaxy Rogue Green/Black Size US 13 2012 Game 503766-300
+2025-07-12 01:11:30,342 - sneaker_bot - INFO - Posted new deal: Nike Dunk High All-Star Galaxy Rogue Green/Black Size US 13 2012 Game 503766-300 - $125.0
+2025-07-12 01:11:31,411 - sneaker_bot - INFO - Posted 1 new deals
+2025-07-12 01:14:24,483 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:14:24,484 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:14:24,485 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:14:28,061 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:14:29,170 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:14:29,172 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:14:29,172 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:14:29,186 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:17:24,488 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:17:24,489 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:17:24,489 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:17:27,648 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 01:17:29,654 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 01:17:29,655 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 01:17:29,655 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 01:17:29,655 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:20:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:20:24,492 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:20:24,493 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:20:27,755 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:20:29,303 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:20:29,305 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:20:29,305 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:20:29,320 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:23:24,493 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:23:24,494 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:23:24,494 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:23:27,815 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:23:29,391 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:23:29,393 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:23:29,393 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:23:29,407 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:26:24,489 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:26:24,490 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:26:24,491 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:26:28,870 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:26:29,225 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:26:29,226 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:26:29,226 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:26:29,240 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:29:24,491 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:29:24,492 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:29:24,493 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:29:28,620 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:29:28,963 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:29:28,964 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:29:28,964 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:29:28,978 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:32:24,484 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:32:24,485 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:32:24,486 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:32:27,366 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:32:28,784 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:32:28,785 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:32:28,785 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:32:28,800 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:34:30,087 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 3b52f106498ffd91600521d5b5608034.
+2025-07-12 01:35:24,483 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:35:24,484 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:35:24,485 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:35:28,706 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:35:29,591 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 01:35:29,592 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 01:35:29,592 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 01:35:29,600 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:38:24,482 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:38:24,484 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:38:24,484 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:38:27,508 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:38:28,604 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:38:28,605 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:38:28,605 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:38:28,620 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:41:24,484 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:41:24,693 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:41:24,694 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:41:27,545 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:41:29,029 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:41:29,030 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:41:29,030 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:41:30,120 - sneaker_bot - INFO - Saved listing: Nike Air Jordan 1 Mid Nouveau 629151-018 Size Men's US 13
+2025-07-12 01:41:30,581 - sneaker_bot - INFO - Posted new deal: Nike Air Jordan 1 Mid Nouveau 629151-018 Size Men's US 13 - $125.0
+2025-07-12 01:41:31,678 - sneaker_bot - INFO - Posted 1 new deals
+2025-07-12 01:44:24,485 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:44:24,487 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:44:24,487 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:44:28,722 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:44:29,677 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 01:44:29,679 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 01:44:29,679 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 01:44:29,687 - sneaker_bot - INFO - No new deals found
+2025-07-12 01:47:24,496 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 01:47:24,498 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 01:47:24,498 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 01:47:29,061 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 01:47:29,650 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 01:47:29,651 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 01:47:29,652 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 01:47:29,671 - sneaker_bot - INFO - No new deals found
+2025-07-12 02:57:10,383 - discord.gateway - WARNING - Shard ID None has stopped responding to the gateway. Closing and restarting.
+2025-07-12 02:57:10,477 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 02:57:10,478 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 02:57:10,478 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 02:57:10,984 - discord.gateway - INFO - Shard ID None session has been invalidated.
+2025-07-12 11:36:56,846 - config_module - INFO - Configuration loaded successfully
+2025-07-12 11:36:56,856 - discord.client - WARNING - PyNaCl is not installed, voice will NOT be supported
+2025-07-12 11:36:56,858 - config_module - INFO - Configuration loaded successfully
+2025-07-12 11:36:56,897 - sneaker_bot - INFO - Database initialized
+2025-07-12 11:36:56,897 - sneaker_bot - INFO - Starting Sneaker Deal Sniper Bot...
+2025-07-12 11:36:56,908 - discord.client - INFO - logging in using static token
+2025-07-12 11:36:59,297 - discord.gateway - INFO - Shard ID None has connected to Gateway (Session ID: 636d09b74841f31ae7ce2f24766d88e5).
+2025-07-12 11:37:01,309 - sneaker_bot - INFO - Bot logged in as sneaker-deal-bot#7419
+2025-07-12 11:37:01,310 - sneaker_bot - INFO - Started monitoring task
+2025-07-12 11:37:01,310 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:37:01,310 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:37:01,310 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:37:04,598 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:37:05,601 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:37:05,604 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:37:05,604 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:37:05,646 - sneaker_bot - INFO - Saved listing: Size 8 - Jordan 1 Retro OG High Fearless
+2025-07-12 11:37:06,147 - sneaker_bot - INFO - Posted new deal: Size 8 - Jordan 1 Retro OG High Fearless - $90.0
+2025-07-12 11:37:07,193 - sneaker_bot - INFO - Saved listing: Nike Air Jordan 1 Retro High 85 Varsity Red 2020 BQ4422-600 Size 8
+2025-07-12 11:37:07,824 - sneaker_bot - INFO - Posted new deal: Nike Air Jordan 1 Retro High 85 Varsity Red 2020 BQ4422-600 Size 8 - $100.0
+2025-07-12 11:37:08,904 - sneaker_bot - INFO - Saved listing: Nike Air Jordan 1 Mule Golf White /Royal Blue Men's Size 12
+2025-07-12 11:37:09,553 - sneaker_bot - INFO - Posted new deal: Nike Air Jordan 1 Mule Golf White /Royal Blue Men's Size 12 - $69.99
+2025-07-12 11:37:10,735 - sneaker_bot - INFO - Saved listing: Size 10.5 - Air Jordan 1 Mid Laser Blue
+2025-07-12 11:37:11,260 - sneaker_bot - INFO - Posted new deal: Size 10.5 - Air Jordan 1 Mid Laser Blue - $85.0
+2025-07-12 11:37:12,307 - sneaker_bot - INFO - Saved listing: Nike SB Dunk Rayssa Leal Size 9.5 Brand New
+2025-07-12 11:37:12,900 - sneaker_bot - INFO - Posted new deal: Nike SB Dunk Rayssa Leal Size 9.5 Brand New - $220.0
+2025-07-12 11:37:13,963 - sneaker_bot - INFO - Saved listing: Nike Dunk Premium SB Low City of Style Pack.  9.5
+2025-07-12 11:37:14,408 - sneaker_bot - INFO - Posted new deal: Nike Dunk Premium SB Low City of Style Pack.  9.5 - $110.0
+2025-07-12 11:37:15,441 - sneaker_bot - INFO - Saved listing: Size 10.5 - Nike Dunk Premium SB High Acapulco Gold
+2025-07-12 11:37:16,096 - sneaker_bot - INFO - Posted new deal: Size 10.5 - Nike Dunk Premium SB High Acapulco Gold - $65.0
+2025-07-12 11:37:17,165 - sneaker_bot - INFO - Posted 7 new deals
+2025-07-12 11:40:01,319 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:40:01,320 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:40:01,320 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:40:04,764 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:40:05,565 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:40:05,567 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:40:05,568 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:40:05,591 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:43:01,316 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:43:01,318 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:43:01,318 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:43:05,267 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 11:43:06,021 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 11:43:06,022 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 11:43:06,022 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 11:43:06,022 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:46:01,314 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:46:01,315 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:46:01,316 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:46:05,100 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:46:05,725 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:46:05,726 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:46:05,726 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:46:05,750 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:49:01,316 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:49:01,317 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:49:01,317 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:49:05,028 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:49:05,950 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:49:05,952 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:49:05,952 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:49:05,973 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:52:01,323 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:52:01,323 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:52:01,324 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:52:04,768 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:52:05,528 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:52:05,530 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:52:05,530 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:52:05,549 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:55:01,319 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:55:01,320 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:55:01,320 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:55:05,063 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 11:55:06,033 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 11:55:06,038 - discord.gateway - INFO - Shard ID None has successfully RESUMED session 636d09b74841f31ae7ce2f24766d88e5.
+2025-07-12 11:55:06,040 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 11:55:06,041 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 11:55:06,064 - sneaker_bot - INFO - No new deals found
+2025-07-12 11:58:01,312 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 11:58:01,313 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 11:58:01,313 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 11:58:04,859 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 11:58:05,897 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 11:58:05,898 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 11:58:05,898 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 11:58:05,898 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:01:01,326 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:01:01,327 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:01:01,327 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:01:05,330 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:01:07,314 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 12:01:07,316 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 12:01:07,316 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 12:01:07,326 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:04:01,317 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:04:01,317 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:04:01,318 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:04:04,865 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:04:06,848 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:04:06,849 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:04:06,849 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:04:06,865 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:07:01,324 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:07:01,325 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:07:01,325 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:07:04,413 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:07:05,259 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:07:05,261 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:07:05,261 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:07:05,279 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:10:01,317 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:10:01,318 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:10:01,318 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:10:04,325 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:10:05,770 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:10:05,774 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:10:05,774 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:10:05,794 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:13:01,342 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:13:01,342 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:13:01,343 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:13:05,959 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:13:06,592 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:13:06,593 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:13:06,594 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:13:06,609 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:16:01,316 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:16:01,317 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:16:01,318 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:16:05,726 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:16:06,653 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:16:06,655 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:16:06,656 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:16:06,674 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:19:01,312 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:19:01,313 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:19:01,313 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:19:04,597 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 12:19:05,003 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 12:19:05,004 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 12:19:05,004 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 12:19:05,004 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:22:01,318 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:22:01,319 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:22:01,319 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:22:05,115 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:22:06,179 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:22:06,181 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:22:06,182 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:22:06,217 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:25:01,313 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:25:01,314 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:25:01,315 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:25:04,440 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 12:25:05,332 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:25:05,334 - scraper_module - INFO - Scraped 20 unique listings total
+2025-07-12 12:25:05,335 - sneaker_bot - INFO - Found 20 listings
+2025-07-12 12:25:05,349 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:28:01,310 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:28:01,311 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:28:01,311 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:28:04,735 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:28:05,759 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:28:05,761 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:28:05,761 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:28:05,782 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:31:01,311 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:31:01,312 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:31:01,312 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:31:04,662 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:31:06,341 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:31:06,343 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:31:06,344 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:31:06,360 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:34:01,324 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:34:01,326 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:34:01,326 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:34:04,616 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:34:06,475 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:34:06,476 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:34:06,476 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:34:06,493 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:37:01,314 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:37:01,314 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:37:01,314 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:37:04,426 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:37:05,650 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:37:05,654 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:37:05,654 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:37:05,675 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:40:01,320 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:40:01,320 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:40:01,320 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:40:04,559 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:40:05,866 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:40:05,869 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:40:05,869 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:40:05,887 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:43:01,324 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:43:01,325 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:43:01,326 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:43:04,585 - scraper_module - INFO - Found 20 relevant listings for 'Jordan 1'
+2025-07-12 12:43:05,031 - scraper_module - INFO - Found 20 relevant listings for 'Nike Dunk'
+2025-07-12 12:43:05,033 - scraper_module - INFO - Scraped 40 unique listings total
+2025-07-12 12:43:05,033 - sneaker_bot - INFO - Found 40 listings
+2025-07-12 12:43:05,051 - sneaker_bot - INFO - No new deals found
+2025-07-12 12:46:01,313 - sneaker_bot - INFO - Starting scrape cycle...
+2025-07-12 12:46:01,314 - scraper_module - INFO - Scraping: Jordan 1
+2025-07-12 12:46:01,315 - scraper_module - INFO - Scraping: Nike Dunk
+2025-07-12 12:46:04,584 - scraper_module - INFO - Found 0 relevant listings for 'Jordan 1'
+2025-07-12 12:46:05,924 - scraper_module - INFO - Found 0 relevant listings for 'Nike Dunk'
+2025-07-12 12:46:05,925 - scraper_module - INFO - Scraped 0 unique listings total
+2025-07-12 12:46:05,925 - sneaker_bot - INFO - Found 0 listings
+2025-07-12 12:46:05,925 - sneaker_bot - INFO - No new deals found

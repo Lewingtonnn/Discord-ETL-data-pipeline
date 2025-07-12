@@ -1,0 +1,63 @@
+{
+    "discord": {
+        "token": "ADD_YOUR_DISCORD_BOT_TOKEN_HERE",
+        "channel_id":1393248095256444950
+    },
+    "scraping": {
+        "search_terms": [
+            "Jordan Retro",
+            "Nike",
+            "adiddas"
+        ],
+        "check_interval_minutes": 3,
+        "max_listings_per_search": 20
+    },
+    "filters": {
+        "min_price": 50,
+        "max_price": 300,
+        "include_keywords": [
+            "Jordan 1",
+            "AJ1",
+            "Air Jordan 1",
+            "Nike Dunk",
+            "Dunk Low",
+            "Dunk High",
+            "SB Dunk"
+        ],
+        "exclude_keywords": [
+            "kids",
+            "youth",
+            "toddler",
+            "infant",
+            "baby",
+            "replica",
+            "fake",
+            "custom",
+            "damaged",
+            "broken",
+            "used",
+            "worn",
+            "beat",
+            "beater"
+        ]
+    },
+    "deal_scoring": {
+        "price_thresholds": {
+            "excellent": 80,
+            "good": 120,
+            "fair": 160,
+            "poor": 200
+        },
+        "bonus_keywords": [
+            "retro",
+            "og",
+            "original",
+            "deadstock",
+            "ds",
+            "off white",
+            "travis scott",
+            "fragment",
+            "chicago"
+        ]
+    }
+}
